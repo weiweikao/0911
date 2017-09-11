@@ -1,0 +1,135 @@
+@charset"utf-8";
+#all{
+	width: 100%;
+	height: 1094px;
+	background-color: #605B5B;
+}
+#header{
+	width: 100%;
+	height: 585px;
+	background-color: #60201D;
+	padding-top: 15px;
+	background-image: url('img/bangkok.jpg');
+}
+
+#column{
+	width: 100%;
+	height: 32px;
+	background-color: ;
+	margin-bottom: 152px;
+	
+}
+
+#logo{
+	width: 110px;
+	height: 33px;
+	background-color: #FFFFFF;
+	background-image: url('img/logo.png');
+	float: left;
+	background-size: cover;
+}
+#button{
+	width: 292px;
+	height: 33px;
+	background-color: #A0A049;
+	float: right;
+	
+}
+#button1{
+	width: 73px;
+	height: 33px;
+	background-color: #E1E1E9;
+	float: left;
+}
+#button2{
+	width: 73px;
+	height: 33px;
+	background-color: #E1E1E9;
+	float: left;
+}
+#button3{
+	width: 73px;
+	height: 33px;
+	background-color: #E1E1E9;
+	float: left;
+}
+
+#button4{
+	width: 73px;
+	height: 33px;
+	background-color: #E1E1E9;
+	float: left;
+}
+#content{
+	width: 100%;
+	height: 440px;
+	background-color: #EB13CD;
+	padding-top: 54px;
+}
+#enter{
+	width: 365px;
+	height: 152px;
+	background-color: #6A26D8;
+	margin-left: 495px;
+	margin-bottom: 145px;
+}
+#portal{
+	width: 100%;
+	height: 74px;
+	background-color: #5F7F9F;
+	padding-top: 30px;
+	background-color: rgba(10, 10, 10, 0.5);
+
+}
+
+#portal_enter{
+	width: 896px;
+	height: 44px;
+	background-color: #000000;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+#enter_2{
+	width: 365px;
+	height: 56px;
+	background-color: #FCFCFC;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 41px;
+
+}
+
+#pic{
+	width: 993px;
+	height: 343px;
+	background-color: #B44A7C;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+#picL{
+	width: 314px;
+	height: 343px;
+	background-color: #E2221C;
+	float: left; 
+	margin-right: 25px;
+}
+
+#picM{
+	width: 314px;
+	height: 343px;
+	background-color: #E2551C;
+	float: left;
+	margin-right: 25.25px;	
+}
+
+#picR{
+	width: 314px;
+	height: 343px;
+	background-color: #E2444C;
+	float: left;
+}
+
